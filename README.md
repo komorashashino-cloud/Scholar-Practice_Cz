@@ -1,2 +1,2 @@
-# Scholar-Practice_Cz
-Pre-exam test to Czech
+# Scholar-Practice
+Pre-exam test
